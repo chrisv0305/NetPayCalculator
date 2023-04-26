@@ -1,0 +1,11 @@
+C:\Users\13237\source\repos\Net Pay Calculator\Net Pay Calculator\bin\Debug\Net Pay Calculator.exe.config
+C:\Users\13237\source\repos\Net Pay Calculator\Net Pay Calculator\bin\Debug\Net Pay Calculator.exe
+C:\Users\13237\source\repos\Net Pay Calculator\Net Pay Calculator\bin\Debug\Net Pay Calculator.pdb
+C:\Users\13237\source\repos\Net Pay Calculator\Net Pay Calculator\obj\Debug\Net Pay Calculator.csproj.AssemblyReference.cache
+C:\Users\13237\source\repos\Net Pay Calculator\Net Pay Calculator\obj\Debug\Net Pay Calculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\13237\source\repos\Net Pay Calculator\Net Pay Calculator\obj\Debug\Net_Pay_Calculator.Form1.resources
+C:\Users\13237\source\repos\Net Pay Calculator\Net Pay Calculator\obj\Debug\Net_Pay_Calculator.Properties.Resources.resources
+C:\Users\13237\source\repos\Net Pay Calculator\Net Pay Calculator\obj\Debug\Net Pay Calculator.csproj.GenerateResource.cache
+C:\Users\13237\source\repos\Net Pay Calculator\Net Pay Calculator\obj\Debug\Net Pay Calculator.csproj.CoreCompileInputs.cache
+C:\Users\13237\source\repos\Net Pay Calculator\Net Pay Calculator\obj\Debug\Net Pay Calculator.exe
+C:\Users\13237\source\repos\Net Pay Calculator\Net Pay Calculator\obj\Debug\Net Pay Calculator.pdb
